@@ -1,9 +1,15 @@
-<h1 align="center">Hi  I'm Harsh Jadaun</h1>
+<h1 align="center">Hi !! , I'm Harsh Jadaun</h1>
 <p align="center">
-Software Developer   |   Impact-Driven Builder 
+Software Developer   | |    Impact-Driven Builder 
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&size=26&duration=3000&pause=1000&color=0CED29FF&center=true&vCenter=true&width=600&lines=Building+Real-World+Projects;Learning+by+Doing;Consistently+Improving)](https://git.io/typing-svg)
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Cutive+Mono&size=26&duration=3000&pause=1000&color=0CED29FF&center=true&vCenter=true&width=800&lines=Building+Real-World+Projects;Learning+by+Doing;Consistently+Improving" 
+    alt="Typing SVG"
+  />
+</p>
+
 
 ---
 
@@ -24,8 +30,11 @@ Software Developer   |   Impact-Driven Builder
 
 ---
 
-### 📊 LeetCode Stats
-![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/6k9xyTSlb1?theme=dark&font=JetBrains+Mono&template=minimal)
+### 📊 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/6k9xyTSlb1?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="650"/>
+</p>
 
 ---
 
