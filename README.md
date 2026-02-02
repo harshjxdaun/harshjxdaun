@@ -1,59 +1,76 @@
-<h1 align="center">Hi !! , I'm Harsh Jadaun</h1>
+<h1 align="center">Hi 👋, I'm Harsh Jadaun</h1>
+
 <p align="center">
-Software Developer   | |    Impact-Driven Builder 
+  <strong>Software Developer</strong> • <strong>Impact-Driven Builder</strong>
 </p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Cutive+Mono&size=26&duration=3000&pause=1000&color=0CED29FF&center=true&vCenter=true&width=800&lines=Building+Real-World+Projects;Learning+by+Doing;Consistently+Improving" 
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=550&color=00FF00&lines=Building+with+Purpose;Learning+by+Doing;Focused+on+Long-Term+Growth" />
 </p>
 
 
 ---
 
-###  About Me
-- 🎓 **BTech Student (1st Year)**
-- 💡 Interested in **problem-solving, system thinking, and real-world impact**
-- 🛠 Believe in **learning by building**, not just tutorials
-- 🚀 Focused on long-term growth as a developer
+## 👨‍💻 About Me
+
+🎓 First-year **B.Tech student** with a strong foundation mindset  
+💡 Passionate about **problem-solving**, **system thinking**, and **real-world impact**  
+🛠 Believe in *learning by building*, not just following tutorials  
+🚀 Focused on **consistency, fundamentals, and long-term developer growth**
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,linux&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,github" />
+</p>
+
+---
+
+## 📊 Competitive Programming
+
+- Actively solving problems on **LeetCode**
+- Strong focus on:
+  - Arrays & Loops  
+  - Mathematical Logic  
+  - Fundamental DSA Concepts  
+- Goal: write **clear, optimized, and readable solutions**
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/6k9xyTSlb1?theme=light&font=Baloo&ext=heatmap" />
+</p>
+
+---
+
+## 🚀 Projects & Learning
+
+### 📌 DSA Practice
+- Regular problem-solving to strengthen fundamentals  
+- Emphasis on **logic clarity** and **edge-case handling**
+
+### 📌 Learning Projects
+- Small projects while learning **C / C++ / Web basics**
+- Clean code, structured thinking, and practical implementation
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/u/6k9xyTSlb1/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" />
   </a>
 </p>
 
 ---
 
-### 📊 LeetCode Progress
-
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/6k9xyTSlb1?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="650"/>
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
----
-
-### 🚀 Projects
-- **DSA Practice & Problem Solving**
-  - Regularly solving problems on LeetCode
-  - Focus on fundamentals: arrays, math, loops, logic
-
--  **Personal Learning Projects**
-  - Small projects while learning C / C++ / Web basics
-  - Emphasis on clarity, logic, and clean code
-
----
-
-### 🤝 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/harshjxdaun)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/u/6k9xyTSlb1/)
-[![X](https://img.shields.io/badge/X-black?logo=x)](https://x.com/harshxtc)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=harshjxdaun&color=blue)
