@@ -38,7 +38,7 @@
 - Goal: write **clear, optimized, and readable solutions**
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/6k9xyTSlb1?theme=light&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/harshjxdaun?theme=light&font=Baloo&ext=heatmap" />
 </p>
 
 ---
