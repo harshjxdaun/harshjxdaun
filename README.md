@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Jadaun</h1>
 
 <p align="center">
-  <strong>Software Developer</strong> • <strong>Impact-Driven Builder</strong>
+  <strong>AI Enthusiast</strong> • <strong>Impact-Driven Builder</strong>
 </p>
 
 <p align="center">
