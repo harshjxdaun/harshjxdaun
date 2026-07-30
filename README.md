@@ -1,40 +1,38 @@
-<h1 align="center">Hi 👋, I'm Harsh Jadaun</h1>
+<h1 align="center">Hi !, I'm Harsh Jadaun</h1>
 
 <p align="center">
-  <strong>AI Enthusiast</strong> • <strong>Impact-Driven Builder</strong>
+  <strong>Impact-Driven Builder</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=550&color=00FF00&lines=Building+with+Purpose;Learning+by+Doing;Focused+on+Long-Term+Growth" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800000000000&center=true&vCenter=true&width=550&color=00FF00&lines=Learning+by+Doing" />
 </p>
 
 
 ---
 
-## 👨‍💻 About Me
-
-🎓 First-year **B.Tech student** with a strong foundation mindset  
-💡 Passionate about **problem-solving**, **system thinking**, and **real-world impact**  
-🛠 Believe in *learning by building*, not just following tutorials  
-🚀 Focused on **consistency, fundamentals, and long-term developer growth**
+## About Me
+- **Keen learner** </p>
+- Believe in **learning by building**, not just following tutorials </p> 
+- Focused on **consistency, fundamentals, and long-term developer growth**
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,python" />
 </p>
 
 ---
 
-## 📊 Competitive Programming
+## Competitive Programming
 
-- Actively solving problems on **LeetCode**
+- Actively solving problems on **LeetCode** and **codeforces**
 - Strong focus on:
   - Arrays & Loops  
   - Mathematical Logic  
-  - Fundamental DSA Concepts  
+  - Fundamental DSA 
 - Goal: write **clear, optimized, and readable solutions**
 
 <p align="center">
@@ -43,15 +41,12 @@
 
 ---
 
-## 🚀 Projects & Learning
+## Projects & Learning
 
-### 📌 DSA Practice
-- Regular problem-solving to strengthen fundamentals  
-- Emphasis on **logic clarity** and **edge-case handling**
-
-### 📌 Learning Projects
-- Small projects while learning **C / C++ / Web basics**
-- Clean code, structured thinking, and practical implementation
+### AI Voice Bot
+- I call it Jarvis.
+- It is a speaking bot which can open links and play some music for you from its local gallery.
+- Here's the link of the repository : https://github.com/harshjxdaun/Jarvis 
 
 ---
 
@@ -61,16 +56,7 @@
   <a href="https://www.linkedin.com/in/harsh-jadaun-5bb3b7381/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/6k9xyTSlb1/">
+  <a href="https://leetcode.com/u/harshjxdaun/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
