@@ -26,21 +26,6 @@
 
 ---
 
-## Competitive Programming
-
-- Actively solving problems on **LeetCode** and **codeforces**
-- Strong focus on:
-  - Arrays & Loops  
-  - Mathematical Logic  
-  - Fundamental DSA 
-- Goal: write **clear, optimized, and readable solutions**
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/harshjxdaun?theme=light&font=Baloo&ext=heatmap" />
-</p>
-
----
-
 ## Projects & Learning
 
 ### AI Voice Bot
@@ -56,7 +41,26 @@
   <a href="https://www.linkedin.com/in/harsh-jadaun-5bb3b7381/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/harshjxdaun/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+<a href="mailto:harshxtc@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+  
+---
+  
+  ## Competitive Programming
+
+- Actively solving problems on **LeetCode** and **codeforces**
+- Goal: write **clear, optimized, and readable solutions**
+
+  <table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/harshjxdaun">
+        <img src="https://leetcard.jacoblin.cool/harshjxdaun?theme=dark&ext=heatmap" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codeforces.com/profile/harshjxdaun">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=harshjxdaun" />
+      </a>
+    </td>
 </p>
