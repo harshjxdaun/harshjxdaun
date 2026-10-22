@@ -18,20 +18,20 @@
 
 ---
 
-##  Tech Stack
+<h2 align="center">Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,jupyter&theme=dark" alt="Programming Languages and Tools" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+</p>
 
-## Projects & Learning
 
-### AI Voice Bot
-- I call it Jarvis.
-- It is a speaking bot which can open links and play some music for you from its local gallery.
-- Here's the link of the repository : https://github.com/harshjxdaun/Jarvis 
 
 ---
 
